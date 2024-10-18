@@ -8,7 +8,6 @@ I recently switched from mechanical engineering to computer science and math, so
 
 *   🌍  I'm based in Montclair, NJ
 *   ✉️  You can contact me at [noahjaskiewicz@gmail.com](mailto:noahjaskiewicz@gmail.com)
-*   🧠  I'm learning Scala and Spark
 *   🤝  I'm open to collaborating on Big Data Projects
 *   ⚡  I think math is fun... but don't tell anyone
 <p align="left">
