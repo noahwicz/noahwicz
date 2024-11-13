@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Noah Jaskiewicz
 =======================================================================================================================================
 
-Junior at Rutgers Studying CS & Math
+Senior at Rutgers Studying CS & Math
 ------------------------------------
 
 I recently switched from mechanical engineering to computer science and math, so I am learning as much as I can about new technologies, and curious about everything I can get my hands on. I love learning something new and applying it to a new project
